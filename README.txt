@@ -23,7 +23,6 @@ A Python project for analyzing sentiment in airline tweets using NLP, with a Str
 - AWS placeholders in `.env.example` for optional S3 integration (not used by default).
 
 ## Project Structure
-```
 ├── data/
 │   ├── raw/
 │   └── processed/
