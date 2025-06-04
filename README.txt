@@ -1,4 +1,4 @@
-```markdown
+
 # Sentiment Analysis of Customer Tweets
 
 A Python project for analyzing sentiment in airline tweets using NLP, with a Streamlit dashboard.
@@ -23,7 +23,6 @@ A Python project for analyzing sentiment in airline tweets using NLP, with a Str
 - AWS placeholders in `.env.example` for optional S3 integration (not used by default).
 
 ## Project Structure
-```
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -42,5 +41,4 @@ A Python project for analyzing sentiment in airline tweets using NLP, with a Str
 ├── pyproject.toml
 ├── requirements.txt
 └── README.md
-```
-```
+
