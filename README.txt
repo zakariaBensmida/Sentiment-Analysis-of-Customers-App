@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Sentiment Analysis of Customer Tweets
 
 A Python project for analyzing sentiment in airline tweets using NLP, with a Streamlit dashboard.
@@ -42,5 +42,3 @@ A Python project for analyzing sentiment in airline tweets using NLP, with a Str
 ├── pyproject.toml
 ├── requirements.txt
 └── README.md
-```
-```
