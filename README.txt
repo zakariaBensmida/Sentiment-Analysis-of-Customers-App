@@ -20,7 +20,7 @@ A Python project for analyzing sentiment in airline tweets using NLP, with a Str
 ## Notes
 - Global Python used; virtual environments recommended for production.
 - Sensitive data (e.g., `.env`, `Tweets.csv`) excluded via `.gitignore`.
-- AWS placeholders in `.env.example` for optional S3 integration (not used by default).
+- AWS placeholders in `.env.public` for optional S3 integration (not used by default).
 
 ## Project Structure
 ├── data/
